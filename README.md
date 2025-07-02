@@ -264,3 +264,4 @@ recipe with the recipe form, and viewing a list of recipes.
 - [Flask-Bcrypt][bcrypt]
 
 [bcrypt]: https://flask-bcrypt.readthedocs.io/en/1.0.1/
+# python-p4-iam-putting-it-all-together-lab
